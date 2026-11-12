@@ -1,11 +1,6 @@
 Read me.
 
-Done:
-- a
-- b
-- c
-
 To-do:
-- [ ] x
+- [x] x
 - [ ] y
 - [ ] z
